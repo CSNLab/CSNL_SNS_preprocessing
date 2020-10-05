@@ -13,4 +13,4 @@ Final outputs of SNS2_Cleanup.ipynb in anonymized CSV format for SNS2:
 - Likert and loneliness ratings from time 2
 - Third party relationships
 
-NOTE: To protect the anonymity of study participants, two methods have been removed and all output has been cleared. Raw CSV datasets cannot be provided.
+NOTE: To protect the anonymity of study participants, two methods have been removed from SNS2_Cleanup.ipynb and all output has been cleared from all scripts. Raw CSV datasets cannot be provided.
