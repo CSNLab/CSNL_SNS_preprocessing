@@ -1,4 +1,4 @@
-# SNS2_preprocessing
+# SNS_preprocessing
 
 This repo contains helper functions for preprocessing social network datasets from the dorm study at Time 1 (SNS1) as well as all steps for preprocessing the social network raw dataset obtained during time 2 (SNS2).
 
