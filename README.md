@@ -8,7 +8,7 @@ Helper functions from Time 1:
 - Filter script to filter dataset from csv file containing long ID string from Firebase output
 - Name normilizer that anonymizes names from a CSV
 
-Final outputs contains the following CSVs in an anonymized format for SNS2:
+Final outputs of SNS2_Cleanup.ipynb in anonymized CSV format for SNS2:
 - Edgelist of all ego-alter pairs with boolean identifying name generator alter was entered
 - Likert and loneliness ratings from time 2
 - Third party relationships
