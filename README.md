@@ -1,8 +1,14 @@
 # SNS2_preprocessing
 
-This repo contains all steps for preprocessing social network raw dataset obtained during time 2. 
+This repo contains helper functions for preprocessing social network datasets from the dorm study at Time 1 (SNS1) as well as all steps for preprocessing the social network raw dataset obtained during time 2 (SNS2).
 
-Final outputs contains the following CSVs in an anonymized format:
+Helper functions from Time 1:
+- Edgelist Generator from a wide dataset
+- Transcriptions text file generator from Excel dataset
+- Filter script to filter dataset from csv file containing long ID string from Firebase output
+- Name normilizer that anonymizes names from a CSV
+
+Final outputs contains the following CSVs in an anonymized format for SNS2:
 - Edgelist of all ego-alter pairs with boolean identifying name generator alter was entered
 - Likert and loneliness ratings from time 2
 - Third party relationships
